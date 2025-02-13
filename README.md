@@ -9,6 +9,7 @@
 - `Project_1.ipynb`: Jupyter Notebook containing data analysis & visualizations.
 - `Aviation Accident Analysis Dashboard.pdf`: Tableau dashboard visualizing key trends.
 - `PROJECT FOR AVIATION ACCIDENT ANALYSIS.pdf`: Project documentation & PowerPoint slides.
+- [Tableau dashboard link](https://public.tableau.com/app/profile/austine.otieno4649/viz/AviationAccidentAnalysisDashboard/AviationAccidentAnalysisDashboard)
 
 ## Analysis Steps
 1. **Data Import & Cleaning**
